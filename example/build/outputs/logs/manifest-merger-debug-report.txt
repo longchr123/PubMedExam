@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:2:1-166:12
+	xmlns:android
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:3:5-21
+	android:versionName
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:5:5-32
+	android:versionCode
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:4:5-30
+		INJECTED from E:\workspace\KaoYan-3\example\AndroidManifest.xml
+		INJECTED from E:\workspace\KaoYan-3\example\AndroidManifest.xml
+uses-sdk
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:7:5-73
+	android:targetSdkVersion
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:7:41-70
+	android:minSdkVersion
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:7:15-40
+permission#您应用的包名.permission.JPUSH_MESSAGE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:8:5-10:47
+	android:protectionLevel
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:9:9-55
+uses-permission#您应用的包名.permission.JPUSH_MESSAGE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:20:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:22:5-84
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:22:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:24:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:25:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:31:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:32:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:33:5-89
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:33:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:34:22-76
+application
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:36:5-165:19
+	android:label
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:39:9-41
+	android:allowBackup
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:37:9-45
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:40:9-64
+activity#com.example.jpushdemo.MainActivity
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:44:9-51:20
+	android:label
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:45:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:49:27-74
+activity#com.example.jpushdemo.PushSetActivity
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:53:8-115
+	android:label
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:53:71-103
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:53:18-70
+activity#com.example.jpushdemo.SettingActivity
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:55:8-115
+	android:label
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:55:71-103
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:55:18-70
+activity#com.example.jpushdemo.TestActivity
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:57:9-62:20
+	android:exported
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:57:69-93
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:57:19-68
+intent-filter#jpush.testAction+jpush.testCategory
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:58:13-61:29
+action#jpush.testAction
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:59:17-59
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:59:25-56
+category#jpush.testCategory
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:60:17-63
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:60:27-60
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:65:9-69:20
+	android:theme
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:67:13-49
+	android:exported
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:66:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:72:9-82:20
+	android:configChanges
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:74:13-63
+	android:theme
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:75:13-60
+	android:exported
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:73:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+您应用的包名
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:77:13-81:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:78:17-75
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:78:25-72
+category#android.intent.category.DEFAULT
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:79:27-73
+category#您应用的包名
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:80:17-51
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:80:27-48
+service#cn.jpush.android.service.DownloadService
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:84:9-88:19
+	android:exported
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:87:13-37
+	android:enabled
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:86:13-35
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:85:13-68
+service#cn.jpush.android.service.PushService
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:93:9-103:19
+	android:exported
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:96:13-37
+	android:enabled
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:95:13-35
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:94:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:97:13-102:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:98:17-75
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:98:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:99:17-73
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:99:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:100:17-78
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:100:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:101:17-76
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:101:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:107:9-116:19
+	android:exported
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:110:13-36
+	android:enabled
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:109:13-35
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:108:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+您应用的包名
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:111:13-114:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:112:17-80
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:112:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:119:9-138:20
+	android:exported
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:122:13-37
+	android:enabled
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:121:13-35
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:120:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+您应用的包名
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:123:14-126:29
+	android:priority
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:123:29-52
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:124:17-94
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:124:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:127:13-130:29
+action#android.intent.action.USER_PRESENT
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:128:17-77
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:128:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:129:17-79
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:129:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:132:13-136:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:133:17-78
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:133:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:134:17-80
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:134:25-77
+data
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:135:17-50
+	android:scheme
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:135:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:141:9-99
+	android:exported
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:141:73-97
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:141:19-72
+receiver#com.example.jpushdemo.MyReceiver
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:144:9-158:20
+	android:exported
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:146:13-37
+	android:enabled
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:147:13-35
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:145:13-60
+intent-filter#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.jpush.android.intent.UNREGISTRATION+您应用的包名
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:148:13-157:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:149:17-79
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:149:25-76
+action#cn.jpush.android.intent.UNREGISTRATION
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:150:17-81
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:150:25-78
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:151:17-83
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:151:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:152:17-88
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:152:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:153:17-86
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:153:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:154:17-91
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:154:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:155:17-77
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:155:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:162:9-84
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:162:20-48
+	android:value
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:162:49-82
+meta-data#JPUSH_APPKEY
+ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:163:9-77
+	android:name
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:163:20-47
+	android:value
+		ADDED from E:\workspace\KaoYan-3\example\AndroidManifest.xml:163:48-74
